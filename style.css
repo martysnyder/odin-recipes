@@ -1,13 +1,26 @@
 
-.title {
-    color: orange; 
-    text-transform: uppercase;
-}
+div {
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: #EEEEEE;
+  }
+  
+  .recipe1 {
+    background-color: #548CA8;
+  }
+  
+  .recipe2 {
+    background-color: #476072;
+  }
+  
+  .recipe3 {
+    background-color: #334257;
+  }
 
-.body {
-    background-color: yellow;
-    color: blue;
-}
+  .recipe4 {
+    background-color: #be0988;
+  }
 
 /*
 
